@@ -1,0 +1,4 @@
+﻿  bloody.cpp
+C:\Users\1000 MEEZA\source\repos\blood_bank\blood_bank\bloody.cpp(210,12): warning C4129: ':': unrecognized character escape sequence
+C:\Users\1000 MEEZA\source\repos\blood_bank\blood_bank\bloody.cpp(211,12): warning C4129: ':': unrecognized character escape sequence
+  blood_bank.vcxproj -> C:\Users\1000 MEEZA\source\repos\blood_bank\x64\Debug\blood_bank.exe
